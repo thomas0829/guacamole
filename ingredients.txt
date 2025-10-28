@@ -2,4 +2,8 @@ avocados
 salt
 limes
 tomatoes
+<<<<<<< HEAD
 jalepenos
+=======
+black pepper
+>>>>>>> origin/main
