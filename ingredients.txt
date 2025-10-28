@@ -2,4 +2,4 @@ avocados
 salt
 limes
 tomatoes
-black pepper
+jalapenos
